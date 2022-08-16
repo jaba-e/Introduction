@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning react-native development.
 - 📫 How to reach me: https://www.linkedin.com/in/enkhtur-bayarjavkhlan/
 - 👨🏻‍💻 My Stack: Linux, Javascript, Python 
-               HTML, CSS, Bootstrap 
-               React, Node, Express 
-               Mongodb, NoSQL etc...
+               React, Node, Express, Graphql, Prisma, 
+               SQL, NOSQL
+               AWS, GCP etc
